@@ -1,2 +1,7 @@
-sample파일추가
-UPDATE
+sample파일추가UPDATE
+tracked: 버전 만든 후에 깃에서 변경내용 추적중인 상태
+untracked: 한번도 버전 만들지 않은 상태
+unmodified: 수정되지 않은 상태/ working tree is clean
+modified: 작업트리에서 수정 후 아직 스테이지에 저장은 안한 상태
+tagged: 스테이지에 있고 아직 commit하지 않은 상태
+
