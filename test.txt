@@ -1,0 +1,62 @@
+11223344556677889900
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ pwd
+/d/workspace/git
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ dir
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls
+test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -l -a
+total 5
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:41 ./
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -al
+total 5
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:41 ./
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -l
+total 1
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ll
+total 1
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -alS
+total 5
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:41 ./
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -alh
+total 5.0K
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:41 ./
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+
+tkddn@DESKTOP-R45JN9V MINGW64 /d/workspace/git
+$ ls -alt
+total 5
+-rw-r--r-- 1 tkddn 197609 20 Jun 16 09:41 test.txt
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
+drwxr-xr-x 1 tkddn 197609  0 Jun 16 09:36 ../
